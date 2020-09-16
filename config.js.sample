@@ -1,0 +1,4 @@
+module.exports = {
+	env: 'dev',
+	secretJwrt: '489458934hfjfaehjfak'
+}

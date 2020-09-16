@@ -1,0 +1,32 @@
+{
+  "name": "slack-clone-with-react-and-socket.io--server",
+  "version": "0.1.0",
+  "description": "Express server for slack-clone-with-react-and-socket.io--client",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LucaBonini/slack-clone-with-react-and-socketio--server.git"
+  },
+  "keywords": [
+    "express.js",
+    "server",
+    "socket.io"
+  ],
+  "author": "Luca Bonini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucaBonini/slack-clone-with-react-and-socketio--server/issues"
+  },
+  "homepage": "https://github.com/LucaBonini/slack-clone-with-react-and-socketio--server#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.28.0",
+    "mongoose": "^5.10.5",
+    "socket.io": "^2.3.0"
+  }
+}
